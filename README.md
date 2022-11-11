@@ -28,7 +28,7 @@ I very quickly decided to write this code and solved the challenge in very less 
 
 
 #### My achievements from this project :
-- Practice and improve how to write code, write descriptions, use classes, manage errors, work with files, learn to connect VS Code to GitHub and use different commands and...
+- Practice and improve how to write neat and clean code, write descriptions, use classes, manage errors, work with files, learn to connect VS Code to GitHub and use different commands and...
 
 Learning continues ♥
 
