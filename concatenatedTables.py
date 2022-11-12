@@ -3,16 +3,6 @@ import glob
 import pandas as pd
 
 class Preprocess:
-   #-- This section is for identifying all the files in this folder.
-   def identifying_Files(self):
-      try:
-        entries = os.listdir()
-      except:
-        print("Something went wrong!")
-      else:
-        print("I found some files.")
-        Preprocess().create_file()
-
    #-- This section is for Splitting Excel files and merging them all
    def Concatenate_Table(self):
       try:
@@ -33,4 +23,4 @@ class Preprocess:
          print("Created New File Done.")
 
 if __name__ == '__main__':
-    Preprocess().identifying_Files()
+    Preprocess().create_file()
