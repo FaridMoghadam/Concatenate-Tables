@@ -11,7 +11,9 @@ ________________________________________________________________________________
 
 ### Reasons for building the project :
 On a normal day at work, I had to merge a large number of Excel files, each of which was related to the information of trucks in an operational area for a period of one year, about 26 files (each file contained one year of information).
-I very quickly decided to write this code and solved the challenge in very less time without wasting much energy and time, then I decided to share the code here.
+I very quickly decided to write this code and solved the challenge in very less time without wasting much energy and time,
+Then I realized that my colleagues (especially the non-technical ones) are heavily involved in this issue and waste a lot of time on a daily basis!
+So I decided to share the code here.
 
 
 
